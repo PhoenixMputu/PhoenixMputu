@@ -1,15 +1,31 @@
-- 👋 Hi, I’m @PhoenixMputu
-- 👀 I’m interested in web and mobil developpment
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on sur un projet React native
-- 📫 How to reach me
-> - Facebook : [Victori Deo Tshimbadi](https://web.facebook.com/profile.php?id=100009472016818)
-> - Instagram : [Victory Deo](https://www.instagram.com/victory_deo_phoenix/)
-> - Email : victory23tshimbadi@gmail.com
+<div align="center">
+  <h1>Hello World :wave: , I'm <span style="color:blue">Victory Deo</span></h1>
+  <h2>I am a Software Engineer and a Full-Stack Developer</h2>
+</div>
 
-<!---
-PhoenixMputu/PhoenixMputu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixMputu)](https://github.com/anuraghazra/github-readme-stats)
+I'm a software engineer with a passion for making contributing to open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include JavaScript, TypeScript, React, and GraphQL.
+
+## My Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,figma,git,github,githubactions,ts,graphql,jest,laravel,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,prisma,react,redux,sass,wordpress)](https://skillicons.dev)
+
+## Stats
+
+![PhoenixMputu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixMputu&show_icons=true&theme=transparent)
+
+## Top Langages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixMputu&layout=compact&langs_count=30&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact me
+
+<ul>
+  <li>Email :love_letter: : <a href="mailto:victory23tshimbadi@gmail.com">victory23tshimbadi@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/victory-deo-tshimbadi-a8a8b920a/">victory Deo Tshimbadi</a></li>
+  <li>Facebook: <a href="https://web.facebook.com/profile.php?id=100009472016818">Victori Deo Tshimbadi </a></li>
+  <li>Website: <a href="victorydeo.wordifysites.com">Victory Deo</a></li>
+</ul>
+
+## Visitor count<br>
+ <img src="https://profile-counter.glitch.me/PhoenixMputu/count.svg" />
