@@ -21,10 +21,10 @@ I'm a software engineer with a passion for making contributing to open source mo
 ## Contact me
 
 <ul>
-  <li>Email :love_letter: : <a href="mailto:victory23tshimbadi@gmail.com">victory23tshimbadi@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/victory-deo-tshimbadi-a8a8b920a/">victory Deo Tshimbadi</a></li>
-  <li>Facebook: <a href="https://web.facebook.com/profile.php?id=100009472016818">Victori Deo Tshimbadi </a></li>
-  <li>Website: <a href="victorydeo.wordifysites.com">Victory Deo</a></li>
+  <li>Email :love_letter: : <a href="mailto:victory23tshimbadi@gmail.com" target="_blank">victory23tshimbadi@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/victory-deo-tshimbadi-a8a8b920a/" target="_blank">victory Deo Tshimbadi</a></li>
+  <li>Facebook: <a href="https://web.facebook.com/profile.php?id=100009472016818" target="_blank">Victori Deo Tshimbadi </a></li>
+  <li>Website: <a href="victorydeo.wordifysites.com" target="_blank">Victory Deo</a></li>
 </ul>
 
 ## Visitor count<br>
