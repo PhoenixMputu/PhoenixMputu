@@ -27,5 +27,19 @@ I'm a software engineer with a passion for making contributing to open source mo
   <li>Website: <a href="victorydeo.wordifysites.com" target="_blank">Victory Deo</a></li>
 </ul>
 
-## Visitor count<br>
+## My contributions<br>
+[![Public Repos Badge](https://badges.strrl.dev/repos/PhoenixMputu)](https://badges.strrl.dev)
+[![Public Gists Badge](https://badges.strrl.dev/gists/PhoenixMputu)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/PhoenixMputu)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/daily/PhoenixMputu)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/PhoenixMputu)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/monthly/PhoenixMputu)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/yearly/PhoenixMputu)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/all/PhoenixMputu)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/daily/PhoenixMputu)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/PhoenixMputu)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/monthly/PhoenixMputu)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/yearly/PhoenixMputu)](https://badges.strrl.dev)
+
+## Count visitors
  <img src="https://profile-counter.glitch.me/PhoenixMputu/count.svg" />
