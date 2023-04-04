@@ -9,7 +9,7 @@ I'm a software engineer with a passion for making contributing to open source mo
 
 ## My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,figma,git,github,githubactions,ts,graphql,jest,laravel,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,prisma,react,redux,sass,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,figma,git,github,githubactions,ts,graphql,jest,laravel,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,prisma,react,redux,sass,wordpress,java,python,spring,sequelize,tailwind,firebase)](https://skillicons.dev)
 
 ## Stats
 
