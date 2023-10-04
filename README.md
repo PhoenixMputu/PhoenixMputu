@@ -41,5 +41,8 @@ I'm a software engineer with a passion for making contributing to open source mo
 [![Commits Badge](https://badges.strrl.dev/commits/monthly/PhoenixMputu)](https://badges.strrl.dev)
 [![Commits Badge](https://badges.strrl.dev/commits/yearly/PhoenixMputu)](https://badges.strrl.dev)
 
+## Badges
+[![An image of @phoenixmputu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/phoenixmputu)](https://holopin.io/@phoenixmputu)
+
 ## Count visitors
  <img src="https://profile-counter.glitch.me/PhoenixMputu/count.svg" />
